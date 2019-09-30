@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\Proyecto N-capas 1\logicanegocios\bin\Debug\logicanegocios.exe.config
+C:\Users\USER\source\repos\Proyecto N-capas 1\logicanegocios\bin\Debug\logicanegocios.exe
+C:\Users\USER\source\repos\Proyecto N-capas 1\logicanegocios\bin\Debug\logicanegocios.pdb
+C:\Users\USER\source\repos\Proyecto N-capas 1\logicanegocios\obj\Debug\logicanegocios.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Proyecto N-capas 1\logicanegocios\obj\Debug\logicanegocios.Properties.Resources.resources
+C:\Users\USER\source\repos\Proyecto N-capas 1\logicanegocios\obj\Debug\logicanegocios.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Proyecto N-capas 1\logicanegocios\obj\Debug\logicanegocios.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Proyecto N-capas 1\logicanegocios\obj\Debug\logicanegocios.exe
+C:\Users\USER\source\repos\Proyecto N-capas 1\logicanegocios\obj\Debug\logicanegocios.pdb

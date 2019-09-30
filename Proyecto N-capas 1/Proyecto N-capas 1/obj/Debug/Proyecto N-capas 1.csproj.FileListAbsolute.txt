@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Proyecto N-capas 1\Proyecto N-capas 1\obj\Debug\Proyecto N-capas 1.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Proyecto N-capas 1\Proyecto N-capas 1\obj\Debug\Proyecto_N_capas_1.Form1.resources
+C:\Users\USER\source\repos\Proyecto N-capas 1\Proyecto N-capas 1\obj\Debug\Proyecto_N_capas_1.Properties.Resources.resources
+C:\Users\USER\source\repos\Proyecto N-capas 1\Proyecto N-capas 1\obj\Debug\Proyecto N-capas 1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Proyecto N-capas 1\Proyecto N-capas 1\obj\Debug\Proyecto N-capas 1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Proyecto N-capas 1\Proyecto N-capas 1\bin\Debug\Proyecto N-capas 1.exe.config
+C:\Users\USER\source\repos\Proyecto N-capas 1\Proyecto N-capas 1\bin\Debug\Proyecto N-capas 1.exe
+C:\Users\USER\source\repos\Proyecto N-capas 1\Proyecto N-capas 1\bin\Debug\Proyecto N-capas 1.pdb
+C:\Users\USER\source\repos\Proyecto N-capas 1\Proyecto N-capas 1\obj\Debug\Proyecto_N_capas_1.Contactos.resources
+C:\Users\USER\source\repos\Proyecto N-capas 1\Proyecto N-capas 1\obj\Debug\Proyecto N-capas 1.exe
+C:\Users\USER\source\repos\Proyecto N-capas 1\Proyecto N-capas 1\obj\Debug\Proyecto N-capas 1.pdb
+C:\Users\USER\source\repos\Proyecto N-capas 1\Proyecto N-capas 1\obj\Debug\Proyecto_N_capas_1.alertacontactos.resources
